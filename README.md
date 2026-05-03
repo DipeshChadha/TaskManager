@@ -23,12 +23,12 @@ A simple and efficient Task Manager application that helps users organize, track
 - CSS
 - JavaScript / React
 
-**Backend (if used):**
+**Backend:**
 - Node.js
 - Express.js
 
 **Database:**
-- MongoDB / Local Storage
+- MongoDB
 
 ---
 
