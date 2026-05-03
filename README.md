@@ -57,26 +57,18 @@ cd task-manager
 npm install
 npm start
 
-## 🧑‍💻 Usage
+🧑‍💻 Usage
+Enter a task in the input field
+Click Add Task
+Mark tasks as completed
+Edit or delete tasks anytime
+Use search/filter options
+🌟 Future Improvements
+Notifications / reminders
+Mobile responsiveness
+Cloud sync
+User authentication
+📬 Contact
 
-- Enter a task in the input field  
-- Click Add Task  
-- Mark tasks as completed  
-- Edit or delete tasks anytime  
-- Use search/filter options  
-
----
-
-## 🌟 Future Improvements
-
-- Notifications / reminders  
-- Mobile responsiveness  
-- Cloud sync  
-- User authentication  
-
----
-
-## 📬 Contact
-
-Dipesh Chadha  
-GitHub: https://github.com/DipeshChadha 
+Dipesh Chadha
+GitHub: https://github.com/DipeshChadha
