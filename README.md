@@ -56,19 +56,28 @@ git clone https://github.com/your-username/task-manager.git
 cd task-manager
 npm install
 npm start
+```
 
-🧑‍💻 Usage
-Enter a task in the input field
-Click Add Task
-Mark tasks as completed
-Edit or delete tasks anytime
-Use search/filter options
-🌟 Future Improvements
-Notifications / reminders
-Mobile responsiveness
-Cloud sync
-User authentication
-📬 Contact
+## 🧑‍💻 Usage
 
-Dipesh Chadha
-GitHub: https://github.com/DipeshChadha
+- Enter a task in the input field  
+- Click Add Task  
+- Mark tasks as completed  
+- Edit or delete tasks anytime  
+- Use search/filter options  
+
+---
+
+## 🌟 Future Improvements
+
+- Notifications / reminders  
+- Mobile responsiveness  
+- Cloud sync  
+- User authentication  
+
+---
+
+## 📬 Contact
+
+Dipesh Chadha  
+GitHub: https://github.com/DipeshChadha  
