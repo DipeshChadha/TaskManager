@@ -45,7 +45,9 @@ Task-Manager/
 │── package.json
 │── README.md
 
+
 ---
+
 ## ⚙️ Installation & Setup
 
 ### 1️⃣ Clone the Repository
@@ -63,6 +65,8 @@ npm start
 - Edit or delete tasks anytime  
 - Use search/filter options  
 
+---
+
 ## 🌟 Future Improvements
 
 - Notifications / reminders  
@@ -70,7 +74,9 @@ npm start
 - Cloud sync  
 - User authentication  
 
+---
+
 ## 📬 Contact
 
 Dipesh Chadha  
-GitHub: https://github.com/DipeshChadha
+GitHub: https://github.com/DipeshChadha 
