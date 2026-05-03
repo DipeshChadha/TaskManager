@@ -54,7 +54,6 @@ git clone https://github.com/your-username/task-manager.git
 cd task-manager
 npm install
 npm start
----
 
 ## 🧑‍💻 Usage
 
