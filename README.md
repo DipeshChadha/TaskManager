@@ -72,8 +72,6 @@ npm start
 
 - Notifications / reminders  
 - Mobile responsiveness  
-- Cloud sync  
-- User authentication  
 
 ---
 
